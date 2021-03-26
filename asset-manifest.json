@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/goit-react-hw-01-components/static/js/main.2c5355d4.chunk.js",
-    "main.js.map": "/goit-react-hw-01-components/static/js/main.2c5355d4.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.fa178076.js",
-    "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.fa178076.js.map",
-    "index.html": "/goit-react-hw-01-components/index.html"
+    "main.js": "/ira-alchynska/goit-react-hw-01-components/static/js/main.2c5355d4.chunk.js",
+    "main.js.map": "/ira-alchynska/goit-react-hw-01-components/static/js/main.2c5355d4.chunk.js.map",
+    "runtime-main.js": "/ira-alchynska/goit-react-hw-01-components/static/js/runtime-main.88b195fe.js",
+    "runtime-main.js.map": "/ira-alchynska/goit-react-hw-01-components/static/js/runtime-main.88b195fe.js.map",
+    "index.html": "/ira-alchynska/goit-react-hw-01-components/index.html"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa178076.js",
+    "static/js/runtime-main.88b195fe.js",
     "static/js/main.2c5355d4.chunk.js"
   ]
 }
