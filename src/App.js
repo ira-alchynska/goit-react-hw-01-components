@@ -1,4 +1,6 @@
-import React, { Fragment } from 'react';
+import React from 'react';
+import './App.css';
+import Container from './components/Container/Container';
 import Profile from './components/Profile/Profile';
 import Statistics from './components/Statistics/Statictics';
 import FriendList from './components/FriendList/FriendList';
@@ -9,7 +11,7 @@ import friends from './DataJson/friends.json';
 import transactions from './DataJson/transactions.json';
 function App() {
   return (
-    <Fragment>
+    <Container>
       <Profile
         name={user.name}
         tag={user.tag}
@@ -21,7 +23,7 @@ function App() {
       <Statistics stats={statisticalData} />
       <FriendList friends={friends} />
       <TransactionHistory items={transactions} />
-    </Fragment>
+    </Container>
   );
 }
 

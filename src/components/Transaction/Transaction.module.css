@@ -1,0 +1,33 @@
+.history {
+  width: 600px;
+  margin: 0;
+}
+.mainlist {
+  width: auto;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: gray;
+  color: lightgrey;
+  border: 1px solid grey;
+}
+
+.item {
+  padding: 15px;
+}
+
+.first {
+  width: auto;
+  padding: 15px;
+  text-align: center;
+  background-color: burlywood;
+  color: black;
+}
+
+.second {
+  width: auto;
+  padding: 15px;
+  text-align: center;
+  background-color: green;
+  color: black;
+}
